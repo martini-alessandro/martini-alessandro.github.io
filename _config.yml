@@ -1,7 +1,4 @@
 title: Alessandro Personal Blog and Portfolio
 description: Welcome to my personal site
-logo: /assets/img/logo.png
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme 
+logo: /assets/img/logo.png 
 theme: jekyll-theme-minimal
